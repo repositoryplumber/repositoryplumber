@@ -4,7 +4,11 @@
 - 📫 How to reach me: satpidepik@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: github is cool :D
-- print("Hello, World!")
+# I hope you enjoy what i make!
+```py
+print("Hello, World!")
+```
+
 
 <!---
 repositoryplumber/repositoryplumber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
