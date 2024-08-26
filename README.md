@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @repositoryplumber
 - 👀 I’m interested in programming :)
 - 🌱 I’m currently learning stuff
-- 📫 How to reach me: satpidepik@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: github is cool :D
 # I hope you enjoy what i make!
